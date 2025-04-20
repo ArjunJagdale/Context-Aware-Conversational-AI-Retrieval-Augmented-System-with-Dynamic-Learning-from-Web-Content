@@ -9,6 +9,8 @@ The model accepts user queries, retrieves relevant context from indexed document
 The system demonstrates strong potential for **educational tools**, **research assistants**, and **secure enterprise applications**.
 
 ---
+Link to Project - https://github.com/ArjunJagdale/Local-RAG-System-using-Mistral-Sentence-Transformers-FAISS
+---
 
 # 1. Introduction
 

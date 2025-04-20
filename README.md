@@ -1,3 +1,5 @@
+# Context-Aware Conversational AI: Retrieval-Augmented System with Dynamic Learning from Web Content
+
 # Abstract
 
 **Retrieval-Augmented Generation (RAG)** has emerged as a powerful approach to improve the contextual understanding of language models by integrating external knowledge. This paper presents a **lightweight, offline-capable RAG system** that leverages the **Mistral 7B Instruct** model to deliver context-aware responses using dynamically scraped web content or user-uploaded text files.

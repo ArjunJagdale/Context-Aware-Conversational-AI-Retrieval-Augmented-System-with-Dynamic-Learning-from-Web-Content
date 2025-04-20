@@ -10,9 +10,10 @@ The system demonstrates strong potential for **educational tools**, **research a
 
 ---
 Link to Project - https://github.com/ArjunJagdale/Local-RAG-System-using-Mistral-Sentence-Transformers-FAISS
-Link to SSRN Publication - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5223831
----
 
+Link to SSRN Publication - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5223831
+
+---
 # 1. Introduction
 
 ### What is the problem we are solving?
